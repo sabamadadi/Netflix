@@ -1,5 +1,8 @@
-# Fourth-Assignment-Netflix
+# Netflix
 
+Fourth Assignment of Advanced Programming course at Shahid Beheshti University (Spring 2023)
+
+Score: 115 out of 100
 
 ## Introduction
 In this assignment, you will create a simulation of Netflix. The program should allow users to create and manage their accounts and profiles, browse movies, and manage their movies. The program should be designed using object-oriented programming principles.
